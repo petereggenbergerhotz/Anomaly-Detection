@@ -1,3 +1,5 @@
+These are the commands I used lately.
+
   196  vim 2s.js
   197  pwd
   198  ./start.sh isyflow
@@ -21,24 +23,24 @@
   216  find ./imports -name "*.*" | xargs grep "material-ui" | wc -l
   217  find ./imports -name "*.*" | xargs grep "@material-ui" | wc -l
   218  find ./imports -name "*.*" | xargs grep "muiThemeable" | wc -l
-  219  find ./imports -name "*.*" | xargs grep "muiThemeable" 
-  220  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable" 
-  221  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable()" 
-  222  find ./imports/ui/components -name "*.*" | xargs grep "enhance(muiThemeable()" 
-  223  find ./imports/ui/components -name "*.*" | xargs grep "<Chip" 
-  224  find ./imports/ui/components -name "*.*" | xargs grep "<Tag" 
-  225  find ./imports/ui/components -name "*.*" | xargs grep "HHHHHHHH" 
+  219  find ./imports -name "*.*" | xargs grep "muiThemeable"
+  220  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable"
+  221  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable()"
+  222  find ./imports/ui/components -name "*.*" | xargs grep "enhance(muiThemeable()"
+  223  find ./imports/ui/components -name "*.*" | xargs grep "<Chip"
+  224  find ./imports/ui/components -name "*.*" | xargs grep "<Tag"
+  225  find ./imports/ui/components -name "*.*" | xargs grep "HHHHHHHH"
   226  cd
   227  cd javascript/underscore/
   228  vim 2s.js
   229  pwd
   230  meteor mongo
   231  pwd
-  232  meteor npm install --save faker   
+  232  meteor npm install --save faker
   233  meteor npm install --save @babel/runtime faker
   234  npm audit
   235  npm install --save @babel/runtime faker
-  236  npm install --save faker   
+  236  npm install --save faker
   237  npm install --save eslint@3.6.0
   238  pwd
   239  ls
@@ -75,7 +77,7 @@
   270  yarn install
   271  ls
   272  npm run test
-  273  atom package.json 
+  273  atom package.json
   274  npm run test
   275  yarn add jest babel-jest
   276  npm run test
@@ -125,13 +127,13 @@
   320  cd meteorjestenzyme/
   321  ls
   322  yarn install
-  323  atom package.json 
+  323  atom package.json
   324  yarn add jest babel-jest
   325  yarn add babel-core@^7.0.0 jest-cli@^20.0.4
   326  yarn add babel-core@^7.0.0 jest-cli@20.0.4
   327  yarn add babel-core@7.0.0 jest-cli@20.0.4
   328  yarn add babel-preset-es2015 babel-preset-react
-  329  cat .babelrc 
+  329  cat .babelrc
   330  yarn add -D enzyme
   331  yarn add -D react-addons-test-utils
   332  yarn add -D react-addons-test-utils
@@ -169,7 +171,7 @@
   364  cd ..
   365  cd ..
   366  ls
-  367  rm package-lock.json 
+  367  rm package-lock.json
   368  rm -rf node_modules && npm install
   369  rm -rf node_modules && npm install
   370  npm run test
@@ -233,8 +235,8 @@
   428  meteor
   429  cd
   430  cd 1isy/isyflow
-  431  find ./imports/ui/components -name "*.*" | xargs grep "var" 
-  432  find ./imports/ui/components -name "*.*" | xargs grep "var " 
+  431  find ./imports/ui/components -name "*.*" | xargs grep "var"
+  432  find ./imports/ui/components -name "*.*" | xargs grep "var "
   433  cd
   434  cd meteor
   435  ls
@@ -260,13 +262,13 @@
   455  ls
   456  ./fasttext
   457  ./fasttext predict model.bin
-  458  ./fasttext predict model.bin data/dbpedia.test 
+  458  ./fasttext predict model.bin data/dbpedia.test
   459  ./fasttext predict model.bin d
   460  ./fasttext predict model.bin data/dbpedia.test 0.1
   461  ./fasttext predict model.bin data/dbpedia.test 2
   462  ./fasttext predict model.bin data/dbpedia.test 3
   463  ./fasttext predict model.bin d
-  464  ./fasttext predict model.bin 
+  464  ./fasttext predict model.bin
   465  ./fasttext predict model.bin data/dbpedia.test 3 0.9
   466  ./fasttext predict model.bin data/dbpedia.test 3 0.1
   467  ./fasttext predict model.bin data/dbpedia.test 3 0.5
@@ -299,7 +301,7 @@
   494  pwd
   495  ls
   496  make
-  497  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5 
+  497  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5
   498  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5 > test.csv
   499  ./fasttext predict-prob model.bin data/dbpedia.test  > test.csv
   500  cd
@@ -320,10 +322,10 @@
   515  pwd
   516  git status
   517  git diff
-  518  git add README.md 
+  518  git add README.md
   519  git status
   520  git diff
-  521  git commit README.md 
+  521  git commit README.md
   522  git diff
   523  git push
   524  git branch
@@ -393,23 +395,23 @@
   588  atom README1.md
   589  git diff
   590  git status
-  591  git add README1.md 
+  591  git add README1.md
   592  ls
   593  git diff --staged
-  594  git commit README1.md 
-  595  git push README1.md 
-  596  git push README.md 
+  594  git commit README1.md
+  595  git push README1.md
+  596  git push README.md
   597  pwd
   598  git clone https://github.com/petereggenbergerhotz/Anomaly-Detection.git
   599  cd Anomaly-Detection/
   600  ls
-  601  atom README.md 
+  601  atom README.md
   602  pwd
   603  ls
-  604  git push README.md 
-  605  git add README.md 
-  606  git commit README.md 
-  607  git push README.md 
+  604  git push README.md
+  605  git add README.md
+  606  git commit README.md
+  607  git push README.md
   608  cd..
   609  cd ..
   610  ls
@@ -450,12 +452,12 @@
   645  ls
   646  git status
   647  git add
-  648  atom README.md 
-  649  git add README.md 
+  648  atom README.md
+  649  git add README.md
   650  git status
   651  cp README.md CONTRIBUTING.txt
   652  git status
-  653  git add CONTRIBUTING.txt 
+  653  git add CONTRIBUTING.txt
   654  git status
   655  git diff
   656  git diff --cached
@@ -467,17 +469,17 @@
   662  git status
   663  git log
   664  git log -p -2
-  665  atom CONTRIBUTING.txt 
+  665  atom CONTRIBUTING.txt
   666  git status
   667  git diff
-  668  git add CONTRIBUTING.txt 
+  668  git add CONTRIBUTING.txt
   669  git commit
   670  ls
   671  git status
   672  git remote
   673  git remote -v
   674  git push origin master
-  675  git add CONTRIBUTING.txt 
+  675  git add CONTRIBUTING.txt
   676  git commit
   677  git push origin master
   678  git remote show origin
@@ -489,11 +491,11 @@
   684  git remote show origin
   685  git tag -a V1.0
   686  git tag -l
-  687  git tag -a V1.0 MyVersion1.0 
+  687  git tag -a V1.0 MyVersion1.0
   688  ls
   689  git show V1.0
   690  git status
-  691  rm MyVersion1.0 
+  691  rm MyVersion1.0
   692  git status
   693  history
   694  histroy > log.txt
