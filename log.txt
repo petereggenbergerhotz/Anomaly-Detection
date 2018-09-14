@@ -1,0 +1,500 @@
+  196  vim 2s.js
+  197  pwd
+  198  ./start.sh isyflow
+  199  pwd
+  200  ls
+  201  cd
+  202  cd meteor
+  203  ls
+  204  cd apollo1/
+  205  ls
+  206  meteor
+  207  pwd
+  208  atom x
+  209  pwd
+  210  cd 1isy/isyflow/
+  211  ./start.sh isyflow
+  212  top
+  213  clear;/Applications/WolframScript.app/Contents/MacOS/wolframscript ;exit 2>&1 > /dev/null
+  214  find ./imports -name "*.*" | xargs grep "<Chip"
+  215  find ./imports -name "*.*" | xargs grep "material-ui"
+  216  find ./imports -name "*.*" | xargs grep "material-ui" | wc -l
+  217  find ./imports -name "*.*" | xargs grep "@material-ui" | wc -l
+  218  find ./imports -name "*.*" | xargs grep "muiThemeable" | wc -l
+  219  find ./imports -name "*.*" | xargs grep "muiThemeable" 
+  220  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable" 
+  221  find ./imports/ui/components -name "*.*" | xargs grep "muiThemeable()" 
+  222  find ./imports/ui/components -name "*.*" | xargs grep "enhance(muiThemeable()" 
+  223  find ./imports/ui/components -name "*.*" | xargs grep "<Chip" 
+  224  find ./imports/ui/components -name "*.*" | xargs grep "<Tag" 
+  225  find ./imports/ui/components -name "*.*" | xargs grep "HHHHHHHH" 
+  226  cd
+  227  cd javascript/underscore/
+  228  vim 2s.js
+  229  pwd
+  230  meteor mongo
+  231  pwd
+  232  meteor npm install --save faker   
+  233  meteor npm install --save @babel/runtime faker
+  234  npm audit
+  235  npm install --save @babel/runtime faker
+  236  npm install --save faker   
+  237  npm install --save eslint@3.6.0
+  238  pwd
+  239  ls
+  240  cd ..
+  241  pwd
+  242  rm -r todoTesting/
+  243  rm -rf todoTesting/
+  244  git clone git@github.com:meteor/todos.git todos
+  245  sudo git clone git@github.com:meteor/todos.git todos
+  246  sudo git clone https://github.com/meteor/todos.git todos
+  247  cd todos
+  248  ls
+  249  git checkout react
+  250  sudo git checkout react
+  251  meteor npm install
+  252  sudo meteor npm install
+  253  sudo npm install `node-pre-gyp install --fallback-to-build
+  254  '
+  255  sudo npm install `node-pre-gyp install --fallback-to-build`
+  256  node-pre-gyp install --fallback-to-build
+  257  find . -name "*.tests.js" -print
+  258  sudo meteor npm install
+  259  npm install --save bcrypt@2.0.1
+  260  sudo npm install --save bcrypt@2.0.1
+  261  npm i bcrypt
+  262  cd ..
+  263  ls
+  264  rm -rf todos
+  265  sudo rm -rf todos
+  266  ls
+  267  git clone https://github.com/apollographql/meteor-starter-kit meteor-jest-enzyme
+  268  cd meteor-jest-enzyme/
+  269  ls
+  270  yarn install
+  271  ls
+  272  npm run test
+  273  atom package.json 
+  274  npm run test
+  275  yarn add jest babel-jest
+  276  npm run test
+  277  npm run test
+  278  yarn add babel-preset-es2015 babel-preset-react
+  279  atom .babelrc
+  280  find .babelrc
+  281  npm run test
+  282  yarn add -D enzyme
+  283  npm run test
+  284  yarn add -D react-addons-test-utils
+  285  npm run test
+  286  yarn add -D jest-meteor-stubs
+  287  atom jest.config.js
+  288  npm run test
+  289  yarn add -D jest-meteor-stubs
+  290  mkdir tests
+  291  mkdir tests/mocks
+  292  pwd
+  293  npm run test
+  294  jest
+  295  npm i -g jest
+  296  npm run test
+  297  npm run test
+  298  ls
+  299  mv tests/mocks/LoginForm.js imports/ui/.
+  300  npm run test
+  301  yarn add jest babel-jest
+  302  npm run test
+  303  npm run test
+  304  yarn install enzyme-adapter-react-15
+  305  npm i enzyme-adapter-react-15
+  306  yarn add enzyme-adapter-react-15
+  307  npm run test
+  308  yarn add react-test-renderer
+  309  yarn add babel-core@7.0.0
+  310  npm run test
+  311  yarn add react@16.0.0 react-dom@16.0.0
+  312  yarn add enzyme
+  313  yarn add react@16.0.0 react-dom@16.0.0 jest-cli@20.04 react-addons-test-utils enzyme-adapter-react-15@1.1.0
+  314  npm run test
+  315  yarn add react-apollo
+  316  npm run test
+  317  cd ..
+  318  sudo rm -rf meteor-jest-enzyme/
+  319  git clone https://github.com/acomito/meteor-jest-enzyme.git meteorjestenzyme
+  320  cd meteorjestenzyme/
+  321  ls
+  322  yarn install
+  323  atom package.json 
+  324  yarn add jest babel-jest
+  325  yarn add babel-core@^7.0.0 jest-cli@^20.0.4
+  326  yarn add babel-core@^7.0.0 jest-cli@20.0.4
+  327  yarn add babel-core@7.0.0 jest-cli@20.0.4
+  328  yarn add babel-preset-es2015 babel-preset-react
+  329  cat .babelrc 
+  330  yarn add -D enzyme
+  331  yarn add -D react-addons-test-utils
+  332  yarn add -D react-addons-test-utils
+  333  npm run test
+  334  find . -name "*.*" | xfig grep "assertPath"
+  335  find . -name "*.*" | xargs grep "assertPath"
+  336  find ./imports -name "*.*" | xargs grep "assertPath"
+  337  npm run test
+  338  npm run test
+  339  yarn add babel-preset-es2015 babel-preset-react
+  340  yarn add babel-preset-env babel-preset-react
+  341  npm run test
+  342  find ./imports -name "*.*" | xargs grep "assertPath"
+  343  pwd
+  344  find . -name "*.*" | xargs grep "assertPath"
+  345  ls
+  346  npm run test
+  347  npm run test
+  348  ls
+  349  cd tests/mocks/
+  350  ls
+  351  rename std\:accounts-ui.js std-accounts-ui.js
+  352  mv std\:accounts-ui.js std-accounts-ui.js
+  353  ls
+  354  npm run test
+  355  rm -rf node_modules && yarn install
+  356  rm -rf node_modules && npm install
+  357  rm -rf node_modules && npm install
+  358  npm audit fix
+  359  rm -rf node_modules && npm install
+  360  yarn add apollo-server-express
+  361  ls p*
+  362  ls
+  363  pwd
+  364  cd ..
+  365  cd ..
+  366  ls
+  367  rm package-lock.json 
+  368  rm -rf node_modules && npm install
+  369  rm -rf node_modules && npm install
+  370  npm run test
+  371  ls
+  372  pwd
+  373  cd ..
+  374  sudo rm -rf meteorjestenzyme/
+  375  pwd
+  376  git clone git@github.com:meteor/todos.git todos
+  377  sudo rm -rf todos
+  378  git clone git@github.com:meteor/todos.git todos
+  379  sudo git clone git@github.com:meteor/todos.git todos
+  380  sudo git clone https://github.com/meteor/todos.git todos
+  381  ls
+  382  cd todos
+  383  ls
+  384  pwd
+  385  yarn install
+  386  meteor add meteortesting:mocha
+  387  meteor npm install --save-dev chai
+  388  yarn add  --save-dev chai
+  389  meteor npm install --save-dev chai
+  390  sudo meteor npm install --save-dev chai
+  391  sudo meteor add meteortesting:mocha
+  392  meteor add meteortesting:mocha
+  393  TEST_WATCH=1 meteor test --driver-package meteortesting:mocha
+  394  pwd
+  395  ls /Users/Peter/meteor/todos/.meteor/local/build
+  396  ls -l  /Users/Peter/meteor/todos/.meteor/local/build
+  397  ls -l  /Users/Peter/meteor/todos/.meteor/local/
+  398  chmod 777 /Users/Peter/meteor/todos/.meteor/local/
+  399  sudo chmod 777 /Users/Peter/meteor/todos/.meteor/local/
+  400  sudo meteor npm install --save-dev chai
+  401  sudo chmod 777 /Users/Peter/meteor/todos/node_modules/
+  402  sudo chmod 777 /Users/Peter/meteor/todos/node_modules/electron/
+  403  mkdir /Users/Peter/meteor/todos/node_modules/electron
+  404  mkdir /Users/Peter/meteor/todos/node_modules/electron/dist
+  405  sudo meteor npm install --save-dev chai
+  406  chmod 777 /Users/Peter/meteor/todos/node_modules/electron/dist
+  407  ls -l /Users/Peter/meteor/todos/node_modules/electron/
+  408  ls -l /Users/Peter/meteor/todos/node_modules/
+  409  sudo mkdir /Users/Peter/meteor/todos/node_modules/electron/
+  410  ls -l /Users/Peter/meteor/todos/node_modules/
+  411  ls -l /Users/Peter/meteor/todos/node_modules/e*
+  412  mkdir /Users/Peter/meteor/todos/node_modules/electron/direct
+  413  sudo mkdir /Users/Peter/meteor/todos/node_modules/electron/direct
+  414  sudo meteor npm install --save-dev chai
+  415  sudo chmod 777 /Users/Peter/meteor/todos/node_modules/electron/direct
+  416  sudo mkdir /Users/Peter/meteor/todos/node_modules/electron/dist
+  417  sudo mkdir /Users/Peter/meteor/todos/node_modules/electron
+  418  sudo mkdir /Users/Peter/meteor/todos/node_modules/electron/dist
+  419  ls -l /Users/Peter/meteor/todos/node_modules/electron/dist
+  420  ls -l /Users/Peter/meteor/todos/node_modules/electron
+  421  sudo meteor npm install --save-dev chai
+  422  pwd
+  423  cd ..
+  424  sudo rm -rf todos
+  425  ls
+  426  cd apollo1/
+  427  ls
+  428  meteor
+  429  cd
+  430  cd 1isy/isyflow
+  431  find ./imports/ui/components -name "*.*" | xargs grep "var" 
+  432  find ./imports/ui/components -name "*.*" | xargs grep "var " 
+  433  cd
+  434  cd meteor
+  435  ls
+  436  git clone https://github.com/meteor/todos.git todoTesting
+  437  cd todoTesting/
+  438  ls
+  439  meteor npm install
+  440  ls
+  441  meteor
+  442  meteor
+  443  pwd
+  444  ls
+  445  atom i
+  446  pwd
+  447  ls
+  448  meteor mongo
+  449  pwd
+  450  cd Desktop/FastTextPy/
+  451  ls
+  452  ls -l
+  453  ./fastText
+  454  cd fastText
+  455  ls
+  456  ./fasttext
+  457  ./fasttext predict model.bin
+  458  ./fasttext predict model.bin data/dbpedia.test 
+  459  ./fasttext predict model.bin d
+  460  ./fasttext predict model.bin data/dbpedia.test 0.1
+  461  ./fasttext predict model.bin data/dbpedia.test 2
+  462  ./fasttext predict model.bin data/dbpedia.test 3
+  463  ./fasttext predict model.bin d
+  464  ./fasttext predict model.bin 
+  465  ./fasttext predict model.bin data/dbpedia.test 3 0.9
+  466  ./fasttext predict model.bin data/dbpedia.test 3 0.1
+  467  ./fasttext predict model.bin data/dbpedia.test 3 0.5
+  468  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5
+  469  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5 > t.txt
+  470  atom t.txt
+  471  pwd
+  472  ls -l t.txt
+  473  atom t.txt
+  474  ls
+  475  ls test*
+  476  ls
+  477  pwd
+  478  ls
+  479  find ./ -name "*.cc" | xargs grep "__label__"
+  480  find ./ -name "*.cc" | xargs grep "label"
+  481  find ./ -name "*.cc" | xargs grep "write"
+  482  clear
+  483  find ./ -name "*.cc" | xargs grep "write"
+  484  find ./ -name "*.cc" | xargs grep "write"
+  485  find ./ -name "*.cc" | xargs grep "__label__"
+  486  find ./ -name "*.cc" | xargs grep "save"
+  487  clear
+  488  find ./ -name "*.cc" | xargs grep "save"
+  489  find ./ -name "*.cc" | xargs grep "print"
+  490  ls /Users/peter/Desktop/FastTextPy/fastText/test.csv
+  491  ls -l /Users/peter/Desktop/FastTextPy/fastText/test.csv
+  492  ls
+  493  atom x
+  494  pwd
+  495  ls
+  496  make
+  497  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5 
+  498  ./fasttext predict-prob model.bin data/dbpedia.test 3 0.5 > test.csv
+  499  ./fasttext predict-prob model.bin data/dbpedia.test  > test.csv
+  500  cd
+  501  pwd
+  502  cd github
+  503  mkdir github
+  504  cd github
+  505  git clone https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  506  ls
+  507  ls
+  508  ls
+  509  cd Anomaly-Detection/
+  510  ls
+  511  pwd
+  512  ls
+  513  atom README.md
+  514  ls
+  515  pwd
+  516  git status
+  517  git diff
+  518  git add README.md 
+  519  git status
+  520  git diff
+  521  git commit README.md 
+  522  git diff
+  523  git push
+  524  git branch
+  525  git branch b14092018
+  526  atom plan.txt
+  527  git diff
+  528  pwd
+  529  git commit -m plan.txt
+  530  git commit plan.txt
+  531  mv plan.txt plan.md
+  532  git commit plan.md
+  533  git commit plan.md
+  534  ls
+  535  git branch
+  536  git checkout b14092018
+  537  git commit plan.md
+  538  ls
+  539  git branch
+  540  git merge b14092018
+  541  git branch
+  542  ls
+  543  git commit plan.md
+  544  ls
+  545  git add plan.md
+  546  git commit plan.md
+  547  git diff
+  548  git diff --staged
+  549  git push
+  550  git push plan.md
+  551  mv plan.md plan.txt
+  552  git commit plan.txt
+  553  git push plan.txt
+  554  pwd
+  555  git status
+  556  git add plan.txt
+  557  git commit plan.txt
+  558  git push plan.txt
+  559  git show
+  560  git diff
+  561  git branch
+  562  git push plan.txt b14092018
+  563  ls -l
+  564  mv plan.txt plan.md
+  565  git add plan.md
+  566  git commit plan.md
+  567  git push b14092018
+  568  git push master b14092018
+  569  git branch
+  570  git branch master
+  571  git checkout b14092018
+  572  git checkout master
+  573  ls
+  574  git branch
+  575  git push master b14092018
+  576  pwd
+  577  cd ..
+  578  ls
+  579  rm Anomaly-Detection/
+  580  rm -r Anomaly-Detection/
+  581  ls
+  582  rm -rf Anomaly-Detection/
+  583  ls
+  584  git clone https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  585  git branch
+  586  cd Anomaly-Detection/
+  587  git branch
+  588  atom README1.md
+  589  git diff
+  590  git status
+  591  git add README1.md 
+  592  ls
+  593  git diff --staged
+  594  git commit README1.md 
+  595  git push README1.md 
+  596  git push README.md 
+  597  pwd
+  598  git clone https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  599  cd Anomaly-Detection/
+  600  ls
+  601  atom README.md 
+  602  pwd
+  603  ls
+  604  git push README.md 
+  605  git add README.md 
+  606  git commit README.md 
+  607  git push README.md 
+  608  cd..
+  609  cd ..
+  610  ls
+  611  pwd
+  612  cd ..
+  613  pwd
+  614  cd ..
+  615  ls
+  616  rm -rf github
+  617  cd git
+  618  ls
+  619  mkdir anomaly
+  620  cd anomaly/
+  621  git init
+  622  pwd
+  623  git remote add origin https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  624  git push -u origin master
+  625  git remote add origin https://github.com/petereggenbergerhotz/anomaly.git
+  626  git push add origin https://githubf.com/petereggenbergerhotz/Anomaly-Detection.git
+  627  cd ..
+  628  ls
+  629  pwd
+  630  cd ..
+  631  rm -rf git
+  632  mkdir git
+  633  cd git
+  634  git init
+  635  pwd
+  636  git remove add origin https://github.com/petereggenbergerhotz/anomaly.git
+  637  git remote add origin https://github.com/petereggenbergerhotz/anomaly.git
+  638  git push -u origin master
+  639  git remote add origin https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  640  git push -u origin master
+  641  git remote add origin https://github.com/petereggenberghotz/Anomaly-Detection.git
+  642  git clone https://github.com/petereggenbergerhotz/Anomaly-Detection.git
+  643  ls
+  644  cd Anomaly-Detection/
+  645  ls
+  646  git status
+  647  git add
+  648  atom README.md 
+  649  git add README.md 
+  650  git status
+  651  cp README.md CONTRIBUTING.txt
+  652  git status
+  653  git add CONTRIBUTING.txt 
+  654  git status
+  655  git diff
+  656  git diff --cached
+  657  git commit
+  658  git commit
+  659  ls
+  660  git status
+  661  git commit
+  662  git status
+  663  git log
+  664  git log -p -2
+  665  atom CONTRIBUTING.txt 
+  666  git status
+  667  git diff
+  668  git add CONTRIBUTING.txt 
+  669  git commit
+  670  ls
+  671  git status
+  672  git remote
+  673  git remote -v
+  674  git push origin master
+  675  git add CONTRIBUTING.txt 
+  676  git commit
+  677  git push origin master
+  678  git remote show origin
+  679  git tag
+  680  git tag -l
+  681  git tag -a V1.0 "My Version 1.0"
+  682  git tag
+  683  pwd
+  684  git remote show origin
+  685  git tag -a V1.0
+  686  git tag -l
+  687  git tag -a V1.0 MyVersion1.0 
+  688  ls
+  689  git show V1.0
+  690  git status
+  691  rm MyVersion1.0 
+  692  git status
+  693  history
+  694  histroy > log.txt
+  695  history > log.txt
