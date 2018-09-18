@@ -462,41 +462,4 @@ These are the commands I used lately.
   655  git diff
   656  git diff --cached
   657  git commit
-  658  git commit
-  659  ls
-  660  git status
-  661  git commit
-  662  git status
-  663  git log
-  664  git log -p -2
-  665  atom CONTRIBUTING.txt
-  666  git status
-  667  git diff
-  668  git add CONTRIBUTING.txt
-  669  git commit
-  670  ls
-  671  git status
-  672  git remote
-  673  git remote -v
-  674  git push origin master
-  675  git add CONTRIBUTING.txt
-  676  git commit
-  677  git push origin master
-  678  git remote show origin
-  679  git tag
-  680  git tag -l
-  681  git tag -a V1.0 "My Version 1.0"
-  682  git tag
-  683  pwd
-  684  git remote show origin
-  685  git tag -a V1.0
-  686  git tag -l
-  687  git tag -a V1.0 MyVersion1.0
-  688  ls
-  689  git show V1.0
-  690  git status
-  691  rm MyVersion1.0
-  692  git status
-  693  history
-  694  histroy > log.txt
   695  history > log.txt
